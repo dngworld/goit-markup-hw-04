@@ -531,8 +531,8 @@ img {
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.card-wrapper:hover .overlay,
-.card-wrapper:focus .overlay {
+.portfolio-item:hover .overlay,
+.portfolio-item:focus .overlay {
   transform: translateY(0);
 }
 
